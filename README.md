@@ -12,14 +12,14 @@
 <br />
 I'm a Mern Stack Developer with hands-on experience designing, developing and implementing applications and solutions using a range of technologies and programming languages.
 <br />
-  <h4>Top  Projects:</h4>
+  <h4><strong>Top  Projects:</strong></h4>
   <br />
  Javascript SPA- <a href="https://starwars-osazee.netlify.app">StarwarsAPI- API consuming(netlify)</a>
  React-E-CommerceApplication- <a href="https://commercezmartzee.pages.dev">E-Commerce Application</a>
 
 <br />
   <br />
-  I'm currently based in <a href="https://goo.gl/maps/wpi5Qva2FTCKDjpC6">Lagos, Nigeria.</a>
+  I'm currently based in <a href="">Lagos, Nigeria.</a>
 <br/>
 <br />
 I love learning new techs and using new tools. I also love swimming and watching football when I am not coding.
