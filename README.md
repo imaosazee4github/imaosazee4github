@@ -16,6 +16,9 @@ I'm a Mern Stack Developer with hands-on experience designing, developing and im
   <br />
  Javascript SPA- <a href="https://starwars-osazee.netlify.app">StarwarsAPI- API consuming(netlify)</a>
  React-E-CommerceApplication- <a href="https://commercezmartzee.pages.dev">E-Commerce Application</a>
+  Mern Stack- Food ordering App<a href="https://foodorderring.netlify.app"> Food ordering Application</a>
+  Mern Stack- Music App<a href="https://smoozepro.netlify.app"> smooze music Application</a>
+  
 
 <br />
   <br />
